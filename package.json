@@ -1,8 +1,8 @@
 {
   "name": "@namraaslam/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "mini clone of lodash library",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/namraaslam/lotide.git"
   },
-  "author": "",
+  "author": "Namra Aslam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/namraaslam/lotide/issues"
